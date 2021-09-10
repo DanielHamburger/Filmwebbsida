@@ -1,0 +1,14 @@
+body {
+  background-color: firebrick;
+  font-family: Verdana, sans-serif;
+  font-size: 1.7rem;
+}
+
+p {
+  color: black;
+  background-color: burlywood;
+  font-size: 1.2rem;
+  /*
+hehe
+  */
+  /*  DRY  */
